@@ -1,0 +1,207 @@
+{
+  "data_lang": "zh-CN",
+  "ga_id": "UA-63818301-2",
+  "resume_title": "张龙徳 - 个人简历",
+  "name": "张龙德",
+  "repo": "https://github.com/zhanglongde",
+  "job_description": ["前端工程师", "软件工程师"],
+  "contact": {
+    "email": "zhanglongde314@gmail.com",
+    "wechat": {
+      "id": "zhang_longde",
+      "qrcode": "static/wechat.png"
+    },
+    "sinaweibo": {
+      "id": "雨落天虹",
+      "url": "http://weibo.com/1660806900"
+    },
+    "github": {
+      "id": "zhanglongde"
+    },
+    "blog": {
+      "url": "http://zhanglongde.github.io"
+    }
+  },
+  "links": [{
+    "type": "repo",
+    "url": "https://github.com/zhanglongde/resume"
+
+  }, {
+    "type": "pdf",
+    "url": "static/张龙德.docx"
+
+  }, {
+    "type": "zhihu",
+    "url": "http://www.zhihu.com/people/zhang-long-de/"
+  }, {
+    "type": "doubanbook",
+    "url": "https://www.douban.com/people/132979241/"
+  }],
+  "education": [{
+    "type": "undergraduate",
+    "name": "福建师范大学",
+    "major": "软件工程",
+    "start": "2009",
+    "end": "2013",
+    "honor": [
+      "2009 - 2010 学年度校**一等奖学金**",
+      "2010 - 2011 学年度校**二等奖学金**",
+      "2011 - 2012 学年度校**二等奖学金**",
+      "2012 - 2013 学年度校**一等奖学金**"
+    ]
+  }],
+  "language": [{
+    "type": "english",
+    "certificate": [
+      {
+      "type": "CET-6",
+      "full": "",
+      "score": ""
+    }],
+    "description": [
+      "能流畅阅读英文专业书籍、文档及其他资料",
+      "可无字幕观看 MOOC 课程、开发者大会视频",
+      "能够在英文邮件列表、Stack Overflow 等社区正常交流"
+    ]
+  }],
+  "experience": [{
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "上海晓兴谷 前端开发组",
+    "start": "2016.03",
+    "end": "至今",
+    "name": "前端开发 后端开发",
+    "description": [
+      "基于bootstrap的七桥门户网站"
+    ],
+    "stack": ["bootstrap", "jquery", "jruby on rails"],
+    "compatibility": "IE8+"
+  },{ "type": "internship",
+    "techtype": "frontend",
+    "place": "上海晓兴谷 移动开发组",
+    "start": "2016.04",
+    "end": "至今",
+    "name": "前端开发",
+    "description": [
+    "基于WEUI的七桥门户微信端"
+    ],
+    "stack": ["bootstrap", "weui", "less"],
+    "compatibility": "X5"
+    }, {
+      "type": "internship",
+      "techtype": "nodejs",
+      "place": "新大陆通信 海外研发部",
+      "start": "2013.07",
+      "end": "2014.06",
+      "name": "基于Android的STB开发",
+      "description": [
+        "机顶盒网页开发"
+      ],
+      "stack": ["C/C++", "android", "html/css"]
+    }, {
+      "type": "project",
+      "techtype": "frontend",
+      "project_type": "personal",
+      "name": "鞋业产品质量管理系统",
+      "source": "https://github.com/zhanglongde/GraduationProject",
+      "description": [
+        "该项目是一套制鞋的产品质量系统，它将Android手机终端作为采集质量数据的终端，以软硬件裁剪的专门嵌入式设备作为数据库服务器，采用便于质量数据展示和分析的网页客户端，以及适合嵌入式开发的便于移植的SQLite3数据库。   本系统以手机客户端、数据库服务器和网页客户端作为整体架构，实现现的关键技术主要包括多线程技术、IO多路复用技术、SQLite数据库技术、Socket通信技术以及Web技术。"
+      ],
+      "stack": ["C/C++", "sqlite", "html/css"],
+      "compatibility": "STB Browser"
+    }, {
+      "type": "project",
+      "techtype": "frontend",
+      "project_type": "personal",
+      "name": "旅游景区智能导览系统",
+      "source": "https://github.com/zhanglongde/iTrip",
+      "description": [
+        "该项目分为景区门户、后台管理系统和基于Android的手机客户端App。该项目开发设计了以RFID为基础的旅游景区管理系统，这个系统可以使景区管理者方便、快捷地进行查询统计旅游信息，准确地掌握景区的经营情况，并对工作人员进行监督、管理，同时为管理者提供准确、可信的决策依据。"
+      ],
+      "stack": [".net", "sqlserver", "mvc"],
+      "compatibility": "IE8+"
+    }, {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "微博系统",
+    "source": "https://github.com/zhanglongde/MyProject-University-Weibo",
+    "description": [
+      "基于.net、SQLserver实现的微博登录、注册、主页网站"
+    ],
+    "stack": [".net", "sqlserver", "mvc"],
+    "compatibility": "IE8+"
+  }, {
+    "type": "project",
+    "techtype": "frontend",
+    "project_type": "personal",
+    "name": "Spoto Office Automation",
+    "source": "https://github.com/zhanglongde/spotoOffice",
+    "description": [
+      "办公自动化系统"
+    ],
+    "stack": [".net", "sqlserver", "mvc"],
+    "compatibility": "IE8+"
+  }],
+  "skills": [{
+    "type": "frontend",
+    "item": [{
+      "summary": "`HTML` / `CSS`",
+      "description": [
+        "能够编写语义化的 `HTML`，模块化的 `CSS`，实现较复杂的布局与动画",
+        "熟悉已标准化的 `HTML5` / `CSS3` 新特性，实验项目中能尝试使用未广泛实现的新标准"
+      ]
+    }, {
+      "summary": "`ECMAScript`（`JavaScript`）",
+      "description": [
+        "熟悉 `ECMAScript`（`JavaScript`），对 `JavaScript 引擎`及相关 JIT 技术有一定的了解",
+        "了解 `ECMAScript` 新标准与相关后处理工具并能在项目中使用"
+      ]
+    }, {
+      "summary": "`DOM` / `BOM` 及常见 `Web API`",
+      "description": [
+        "熟悉原生 `DOM` 与 `BOM` 的使用及相关标准（W3C / WHATWG），有桌面 / 移动端前端组件的开发经验",
+        "对 `WebGL` / `Web Workers` / `WebSocket` / `Web Components` / `SVG` 等 API 有一定的使用经验",
+        "阅读过 `WebKit` / `Blink` 源码中的部分实现，了解常见的 Web API **兼容性**问题及其解决方案"
+      ]
+    }, {
+      "summary": "前端工程实践",
+      "description": [
+        "使用 `Meteor` / `AngularJS` / `Polymer` 编写过简单的 CRUD SPA，了解 `Backbone.js` / `React` 及前端 `MV*` 模型",
+        "熟悉 `jQuery` / `jQuery UI` / `Bootstrap` 的使用、定制与扩展, 阅读过部分源代码",
+        "在项目中使用过 `Sea.js` / `RequireJS` / `Browserify` / `Bower` / `WebPack` 等多种模块化解决方案",
+        "在项目中使用过 `Less` / `Sass` / `PostCSS` / `CoffeeScript` / `TypeScript` 等预处理/后处理工具",
+        "日常使用 `Grunt` 或 `Gulp` 改进工作流",
+        "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
+      ]
+    }]
+  }, {
+    "type": "backend",
+    "item": [{
+      "summary": "`Node.js`",
+      "description": [
+        "能够使用 `Node.js API` / `Express` / `Koa` 搭建简单的后端程序与数据库交互、渲染模板及提供 `RESTful API`",
+        "了解异步 I/O 及事件驱动的服务器模型，掌握常见的**异步编程**解决方案",
+        "能编写简单的 `Express` / `Connect` / `Koa` 中间件，使用 `Mocha` 与 `Chai` 编写单元测试"
+      ]
+    }, {
+      "summary": "其他",
+      "description": [
+        "使用 `Tornado` / `Flask`（`Python`） 搭建过简单的服务器",
+        "有使用 `MongoDB` / `MySQL` 数据库，`Redis` 缓存，`nginx` 反向代理的经验",
+        "了解 `HTTP`（1.x / 2）、 `TCP/IP`、 `WebSocket` 等协议"
+      ]
+    }]
+  }, {
+    "type": "miscellaneous",
+    "item": [
+      "三年 `Linux` 使用经验，熟悉常用命令与配置，能编写简单的 `bash` 脚本",
+      "熟悉多种平台与编译环境下的 `C` / `C++` 及其新标准，编写过简单的解释器、数据库引擎、3D 图形程序及 Node.js 扩展，能阅读 `WebKit` / `Blink、V8` 等常接触项目的源代码并加以利用",
+      "熟悉 `Python`，能实现简单的数据及图像处理工具、自动化脚本、爬虫、机器学习算法及分布式程序（参见 GitHub）",
+      "具备基本的 `Web 安全`知识（`X.509` / `XSS` / `CSRF` 等）",
+      "能够使用 `LaTeX` 及 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力",
+      "日常使用 `Git` 与 `Sublime Text` / `Vim` 进行开发，也乐于尝试新工具",
+      "能够使用 `Photoshop` / `Illustrator` 完成简单的设计"
+    ]
+  }]
+}
