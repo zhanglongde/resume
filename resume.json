@@ -167,10 +167,10 @@
     }, {
       "summary": "前端工程实践",
       "description": [
-        "使用 `Meteor` / `AngularJS` / `Polymer` 编写过简单的 CRUD SPA，了解 `Backbone.js` / `React` 及前端 `MV*` 模型",
+        "使用过 `vuejs` ，了解 `lodash` / `React` 及前端 `MV*` 模型",
         "熟悉 `jQuery` / `jQuery UI` / `Bootstrap` 的使用、定制与扩展, 阅读过部分源代码",
         "在项目中使用过 `Sea.js` / `RequireJS` / `Browserify` / `Bower` / `WebPack` 等多种模块化解决方案",
-        "在项目中使用过 `Less` / `Sass` / `PostCSS` / `CoffeeScript` / `TypeScript` 等预处理/后处理工具",
+        "在项目中使用过 `Less` / `Sass` 等预处理/后处理工具",
         "日常使用 `Grunt` 或 `Gulp` 改进工作流",
         "掌握基本的前端兼容性处理、性能优化知识与技巧，并能在项目中加以实践"
       ]
@@ -185,9 +185,9 @@
         "能编写简单的 `Express` / `Connect` / `Koa` 中间件，使用 `Mocha` 与 `Chai` 编写单元测试"
       ]
     }, {
-      "summary": "其他",
+      "summary": "Ruby on rails",
       "description": [
-        "使用 `Tornado` / `Flask`（`Python`） 搭建过简单的服务器",
+        "使用 `Ruby on rails`（`Ruby`） 搭建过服务器",
         "有使用 `MongoDB` / `MySQL` 数据库，`Redis` 缓存，`nginx` 反向代理的经验",
         "了解 `HTTP`（1.x / 2）、 `TCP/IP`、 `WebSocket` 等协议"
       ]
@@ -197,7 +197,6 @@
     "item": [
       "三年 `Linux` 使用经验，熟悉常用命令与配置，能编写简单的 `bash` 脚本",
       "熟悉多种平台与编译环境下的 `C` / `C++` 及其新标准，编写过简单的解释器、数据库引擎、3D 图形程序及 Node.js 扩展，能阅读 `WebKit` / `Blink、V8` 等常接触项目的源代码并加以利用",
-      "熟悉 `Python`，能实现简单的数据及图像处理工具、自动化脚本、爬虫、机器学习算法及分布式程序（参见 GitHub）",
       "具备基本的 `Web 安全`知识（`X.509` / `XSS` / `CSRF` 等）",
       "能够使用 `LaTeX` 及 `Markdown` 编写得体的中英文文档或论文，具备良好的技术交流能力",
       "日常使用 `Git` 与 `Sublime Text` / `Vim` 进行开发，也乐于尝试新工具",
